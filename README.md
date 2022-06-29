@@ -17,7 +17,7 @@ Foi pego os dois botões e agrupados assim:
 
 Após isso, foram encaixados nas laterais e os cabos um em cada botão e depois associados da seguinte maneira:
 - Acelerar --> Entrada 3
-- Freiar --> Entrada 4
+- Frear --> Entrada 4
 - Levantar o grafo da empilhadeira --> Entrada 1
 - Descer o garfo da empilhadeira --> Entrada 2
 
